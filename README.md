@@ -23,7 +23,7 @@ DApp Connect is a decentralized application (DApp) built on the Internet Compute
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/dapp-connect.git
+   git clone https://tejaschoukale.github.io/DApp-Connect-For-a-decentralized-app-/
    cd dapp-connect
    ```
 
